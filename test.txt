@@ -3,3 +3,4 @@ is that correct?
 this is a new change
 this is added when the second file is created
 this is added to test the checkout.
+added to test clone
